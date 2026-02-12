@@ -1,5 +1,11 @@
 # 🛠️ Dev Toolkit - 开发者工具集
 
+[![GitHub stars](https://img.shields.io/github/stars/helloworldTXT/dev-toolkit?style=social)](https://github.com/helloworldTXT/dev-toolkit)
+![License](https://img.shields.io/badge/license-MIT-green)
+![No Dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
+
+**👉 [在线体验 / Live Demo](https://helloworldtxt.github.io/dev-toolkit/)**
+
 一套轻量级的前端开发者工具集，**单文件 HTML 实现**，无需安装、无需依赖、离线可用。
 
 ## ✨ 特性
@@ -46,7 +52,7 @@
 
 ```bash
 # 只下载 JSON 格式化工具
-curl -O https://raw.githubusercontent.com/你的用户名/dev-toolkit/main/json-formatter.html
+curl -O https://raw.githubusercontent.com/helloworldTXT/dev-toolkit/main/json-formatter.html
 ```
 
 ## 📁 项目结构
